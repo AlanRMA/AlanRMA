@@ -1,4 +1,6 @@
-** Hey there!** I'm Alan, a curious developer diving deep into the world of backend development, data manipulation, and the ever-evolving field of Artificial Intelligence :)
+Hey there! 🐸
+
+I'm Alan, a curious developer diving deep into the world of backend development, data manipulation, and the ever-evolving field of Artificial Intelligence :)
 
 What I'm into:
 
