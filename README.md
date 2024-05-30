@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Alan.
-- 👀 I’m interested in Backend, Data stuff and AI.
-- 📫 How to reach me email: AlanRogerMoreiraAragao@proton.me
-- 😄 Pronouns: He/him
+** Hey there!** I'm Alan, a curious developer diving deep into the world of backend development, data manipulation, and the ever-evolving field of Artificial Intelligence :)
 
-<!---
-AlanRMA/AlanRMA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What I'm into:
+
+Study new stuff everyday
+Develop Data pipelines
+Explore AI potential
+
+ - Looking to connect?
+
+Feel free to shoot me an email at [email address removed]
