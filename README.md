@@ -5,5 +5,4 @@ I'm Alan, a curious developer that are passionate for Data Engineering and learn
 Feel free to shoot me an email at alanrogermoreiraaragao@proton.me
 
 Let's connect!
-- Email: alanrogermoreiraaragao@proton.me
-- LinkedIn: https://www.linkedin.com/feed/
+- LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/in/alanrma/)
