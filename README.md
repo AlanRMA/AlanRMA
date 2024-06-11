@@ -9,17 +9,21 @@ I am a curious developer that are passionate for Data Engineering and learning n
 
 💬 Let's connect!
 - LinkedIn: [https://www.linkedin.com/alanrma/](https://www.linkedin.com/in/alanrma/)
+- Email: AlanRogerMoreiraAragao@proton.me
 
 
 ## 🚀 My skills
 - Python
 - SQL
 - Scala
+- Spark
 - ETLs development
 - Data Warehousing
 - Data mining
 - Project Management (SCRUM)
 - Docker
+- Kubernetes
+- Azure / AWS
 ---
 
 ## ⭐ GitHub Stats
