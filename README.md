@@ -10,6 +10,7 @@ I am a curious developer that are passionate for Data Engineering and learning n
 💬 Let's connect!
 - LinkedIn: [https://www.linkedin.com/alanrma/](https://www.linkedin.com/in/alanrma/)
 - Email: AlanRogerMoreiraAragao@proton.me
+- Codeforces: [codeforce profile](https://codeforces.com/profile/AllenRodger)
 
 
 ## 🚀 My skills
