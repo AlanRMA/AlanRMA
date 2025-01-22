@@ -1,30 +1,18 @@
 
-## 🐸 Hello, Alan here!
+## Hello, λlan here!
 
-I am a curious developer that are passionate for Data Engineering and learning new things.
-
-
-🔭 Projects and Contributions:
-- currently contributing to Arkyide project on AYLIT team😄
+I do freelance projects. Hit me up!
 
 💬 Let's connect!
 - LinkedIn: [https://www.linkedin.com/alanrma/](https://www.linkedin.com/in/alanrma/)
 - Email: AlanRogerMoreiraAragao@proton.me
-- Codeforces: [https://codeforces.com/profile/AllenRodger](https://codeforces.com/profile/AllenRodger)
 
-
-## 🚀 My skills
+## 🚀 My Experience
 - Python
 - SQL
-- Scala
-- Spark
-- ETLs development
-- Data Warehousing
-- Data mining
+- Haskell
 - Project Management (SCRUM)
-- Docker
-- Kubernetes
-- Azure / AWS
+- Most of Data Engineering needs
 ---
 
 ## ⭐ GitHub Stats
