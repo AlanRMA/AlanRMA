@@ -1,20 +1,43 @@
+## Alan Roger Moreira Aragão
 
-## Hello, λlan here!
+**Mathematics · Computer Science · Artificial Intelligence**
 
-I do freelance projects. Hit me up!
+Exploring the foundations of computation, machine learning, and mathematical reasoning.
 
-💬 Let's connect!
-- LinkedIn: [https://www.linkedin.com/alanrma/](https://www.linkedin.com/in/alanrma/)
-- Email: AlanRogerMoreiraAragao@proton.me
+### About me
 
-## 🚀 My Experience
+I am interested in the intersection of:
+
+- Mathematical structures
+- Functional programming
+- Machine learning
+- Neural network architectures
+- Logic and computability theory
+- General System Theory
+
+My current focus is understanding how mathematical abstractions can be used to design more efficient computational systems and intelligent models.
+
+### Research Interests
+
+- Artificial Intelligence
+- Neural Architecture Design
+- Functional Programming
+- Mathematical Modeling
+- Computational Learning Theory
+- Automated Reasoning
+- Knowledge Representation
+- Novel Models of Computation
+
+### Technologies
+
 - Python
 - SQL
 - Haskell
-- Project Management (SCRUM)
-- Most of Data Engineering needs
----
+- PostgreSQL
+- Numpy
+- Scipy
+- hmatrix
 
-## ⭐ GitHub Stats
+### Long-Term Goal
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanRMA&show_icons=true)
+To contribute to the development of new computational paradigms and safe AGI.
