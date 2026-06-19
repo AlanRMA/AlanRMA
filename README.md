@@ -10,3 +10,8 @@ I am interested in the intersection of:
 - Neural network architectures
 - Logic and computability theory
 - General System Theory
+
+Currently Studying:
+- Cybersecurity Basics
+- Operational Systems
+- Computer Networks
